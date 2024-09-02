@@ -47,7 +47,7 @@
 </article>
 
 <h2>My Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman9k&layout=compact" alt="mnomancode" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noman9k&show_icons=true&show-private=true" alt="mnomancode" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnomancode&layout=compact" alt="mnomancode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnomancode&show_icons=true&show-private=true" alt="mnomancode" /></p>
 
 
